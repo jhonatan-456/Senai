@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+    color: rgb(83, 1, 1);
+}
+#titulo{
+    background-color: rgb(0, 0, 0);
+    color: rgb(252, 235, 0);
+}
+.senai{
+    background-color: rgb(0, 87, 128) ;
+    color: rgb(255, 255, 255);
+}
+    .sesi{
+    background-color: rgb(128, 0, 6) ;
+    color: rgb(255, 255, 255);
+    }
+#destaque{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blue;
+background-color: rgba(168, 189, 218, 0.986);
+}
